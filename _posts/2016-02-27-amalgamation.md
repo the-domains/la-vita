@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T23:35:20.820Z'
-dateModified: '2016-02-27T23:29:49.235Z'
+datePublished: '2016-02-27T23:50:27.681Z'
+dateModified: '2016-02-27T23:45:04.846Z'
 title: Amalgamation
 author: []
+sourcePath: _posts/2016-02-27-amalgamation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-27-amalgamation.md
-published: true
-url: amalgamation/index.html
-_type: Article
+_type: Blurb
 
 ---
 It's an idea. There's purpose behind it, but it's messy at first.
