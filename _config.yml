@@ -1,0 +1,28 @@
+name: La Vita
+favicon: null
+layout_spectrum: 0.9152480300981551
+typography_spectrum: 0.312657204689458
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.35594137548469007
+  lightness: 0.9323635324835777
+  saturation: 0.07309079333208501
+  rhythmicContrast: 0.8262232088018209
+purpose: []
