@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-28T00:08:37.725Z'
-dateModified: '2016-02-28T00:08:20.872Z'
+datePublished: '2016-02-28T00:26:54.077Z'
+dateModified: '2016-02-28T00:26:41.779Z'
 title: Amalgamation
 author: []
 sourcePath: _posts/2016-02-27-amalgamation.md
