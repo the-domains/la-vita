@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-28T00:26:54.077Z'
-dateModified: '2016-02-28T00:26:41.779Z'
+datePublished: '2016-02-28T01:04:43.185Z'
+dateModified: '2016-02-28T01:04:32.262Z'
 title: Amalgamation
 author: []
 sourcePath: _posts/2016-02-27-amalgamation.md
